@@ -2,7 +2,7 @@
 ;24/11/2020
 ;Esercizio Fatto A scuola in data 24/11/2020
 
-TITLE Verifica Vettore 10 elementi (Verifica se il carattere e' maiuscolo)
+TITLE Verifica Vettore 10 elementi (Verifica se il carattere e maiuscolo)
 
 .MODEL SMALL
 
